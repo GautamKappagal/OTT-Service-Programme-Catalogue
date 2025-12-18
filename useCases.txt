@@ -1,0 +1,24 @@
+1.
+    Name: Search programmes by attribute
+    Actor: Service consumer
+    Action: Explores programmes filtered by genre, release date, or duration.
+
+2.
+    Name: View programme cast
+    Actor: Service consumer
+    Action: Views the list of cast members for a selected programme.
+
+3.
+    Name: Track programme episodes
+    Actor: Service consumer
+    Action: Lists all released episodes for a particular programme, season-wise.
+
+4.
+    Name: Manage programmes
+    Actor: Service provider
+    Action: Adds new programmes with details or deletes them using programme ID.
+
+5.
+    Name: Add episodes to a programme
+    Actor: Service provider
+    Action: Adds newly released episodes (say weekly) to an existing programme and updates information about the programme.
