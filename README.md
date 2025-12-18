@@ -5,7 +5,7 @@ It demonstrates database schema design, sample data insertion, schema alteration
 
 ---
 
-## Project Description
+## 📌 Project Description
 
 The project simulates the catalogue layer of an OTT platform, managing:
 
@@ -42,7 +42,7 @@ OTT-Service-Programme-Catalogue/
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 ### 1️⃣ Prerequisites
 - Java JDK 9 or higher
@@ -89,10 +89,3 @@ java -cp .:../lib/mysql-connector-j-8.0.32.jar RunSQLScript ott_db_demo_5.sql
 - Model many-to-many relationships (Programme ↔ Cast)
 - Execute SQL scripts using Java JDBC
 - Structure an academic database project cleanly
-
----
-
-## 📜 License
-
-This project is intended for **academic and learning purposes**.
-Free to use and extend.
